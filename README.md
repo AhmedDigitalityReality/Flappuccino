@@ -21,7 +21,7 @@ Grab the latest release of Python from [here](https://www.python.org/downloads/)
 3. Linux:
 Same as windows.
 
-Ensure ``main.py`` is in the same directory as ``./data`` and execute  ``python main.py``.
+Ensure ``main.py`` is in the same directory as ``./data`` and execute  ``python3 main.py``.
 
 ## Contributing
 Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for any noncommercial purposes.
